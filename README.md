@@ -13,7 +13,7 @@
 Data --> Preprocessing --> Model.
 
 #### I use following process in the model- 
- Data Merge , Filtering , Stemming by using nltk library , Vectoring.
+ Data Merge , Filtering , Stemming by using nltk library , Vectoring , Machine learning.
 
 I convert all data into Vector so it will become easy to find similar movie according to user's choice.
 
